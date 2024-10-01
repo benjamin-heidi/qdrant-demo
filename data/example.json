@@ -1,0 +1,247 @@
+[
+    {
+        "snomed_code": "386661006",
+        "term": "Fever",
+        "description": "An elevation of body temperature above the normal range."
+    },
+    {
+        "snomed_code": "49727002",
+        "term": "Cough",
+        "description": "A sudden, forceful hacking sound to release air and clear an irritation in the throat or airway."
+    },
+    {
+        "snomed_code": "25064002",
+        "term": "Headache",
+        "description": "Pain in the head or upper neck."
+    },
+    {
+        "snomed_code": "422587007",
+        "term": "Nausea",
+        "description": "A feeling of sickness with an inclination to vomit."
+    },
+    {
+        "snomed_code": "422400008",
+        "term": "Vomiting",
+        "description": "The involuntary, forceful expulsion of the contents of one's stomach through the mouth."
+    },
+    {
+        "snomed_code": "62315008",
+        "term": "Diarrhea",
+        "description": "A condition in which feces are discharged from the bowels frequently and in a liquid form."
+    },
+    {
+        "snomed_code": "84229001",
+        "term": "Fatigue",
+        "description": "Extreme tiredness resulting from mental or physical exertion or illness."
+    },
+    {
+        "snomed_code": "43724002",
+        "term": "Chills",
+        "description": "A feeling of coldness occurring during a high fever."
+    },
+    {
+        "snomed_code": "43724002",
+        "term": "Sweating",
+        "description": "The release of a salty liquid from the body's sweat glands."
+    },
+    {
+        "snomed_code": "267036007",
+        "term": "Shortness of breath",
+        "description": "A feeling of not being able to breathe well enough."
+    },
+    {
+        "snomed_code": "29857009",
+        "term": "Chest pain",
+        "description": "Pain in any region of the chest."
+    },
+    {
+        "snomed_code": "21522001",
+        "term": "Abdominal pain",
+        "description": "Pain that occurs between the chest and pelvic regions."
+    },
+    {
+        "snomed_code": "161891005",
+        "term": "Back pain",
+        "description": "Pain felt in the back."
+    },
+    {
+        "snomed_code": "57676002",
+        "term": "Joint pain",
+        "description": "Pain in the joints."
+    },
+    {
+        "snomed_code": "68962001",
+        "term": "Muscle pain",
+        "description": "Pain in the muscles."
+    },
+    {
+        "snomed_code": "162397003",
+        "term": "Sore throat",
+        "description": "Pain or irritation in the throat."
+    },
+    {
+        "snomed_code": "267036007",
+        "term": "Runny nose",
+        "description": "A condition where the nasal cavity is filled with a significant amount of mucus fluid."
+    },
+    {
+        "snomed_code": "68235000",
+        "term": "Congestion",
+        "description": "A condition of the nasal passages in which the nasal tissues are swollen with excess fluid."
+    },
+    {
+        "snomed_code": "267031307",
+        "term": "Sneezing",
+        "description": "A sudden, forceful, involuntary burst of air through the nose and mouth."
+    },
+    {
+        "snomed_code": "418290006",
+        "term": "Itching",
+        "description": "An irritating sensation that makes you want to scratch."
+    },
+    {
+        "snomed_code": "271807003",
+        "term": "Rash",
+        "description": "A change of the skin which affects its color, appearance, or texture."
+    },
+    {
+        "snomed_code": "264836007",
+        "term": "Swelling",
+        "description": "An abnormal enlargement of a part of the body, typically as a result of an accumulation of fluid."
+    },
+    {
+        "snomed_code": "404640003",
+        "term": "Dizziness",
+        "description": "A feeling of being lightheaded, woozy, or unbalanced."
+    },
+    {
+        "snomed_code": "271594007",
+        "term": "Fainting",
+        "description": "A sudden, brief loss of consciousness."
+    },
+    {
+        "snomed_code": "162076009",
+        "term": "Palpitations",
+        "description": "A noticeably rapid, strong, or irregular heartbeat."
+    },
+    {
+        "snomed_code": "422400008",
+        "term": "Blurred vision",
+        "description": "Lack of sharpness of vision resulting in the inability to see fine detail."
+    },
+    {
+        "snomed_code": "267036007",
+        "term": "Double vision",
+        "description": "The simultaneous perception of two images of a single object."
+    },
+    {
+        "snomed_code": "267038207",
+        "term": "Hearing loss",
+        "description": "Partial or total inability to hear."
+    },
+    {
+        "snomed_code": "267576007",
+        "term": "Ear pain",
+        "description": "Pain in the ear."
+    },
+    {
+        "snomed_code": "3447036007",
+        "term": "Tinnitus",
+        "description": "Ringing or buzzing noise in one or both ears that may be constant or come and go."
+    },
+    {
+        "snomed_code": "2670362407",
+        "term": "Numbness",
+        "description": "A lack of sensation in a part of the body."
+    },
+    {
+        "snomed_code": "2670234326007",
+        "term": "Tingling",
+        "description": "A prickling or stinging sensation in the skin."
+    },
+    {
+        "snomed_code": "26703324246007",
+        "term": "Weakness",
+        "description": "A lack of physical or muscle strength."
+    },
+    {
+        "snomed_code": "26703646007",
+        "term": "Seizures",
+        "description": "Uncontrolled electrical activity in the brain, which may produce a physical convulsion, minor physical signs, thought disturbances, or a combination of symptoms."
+    },
+    {
+        "snomed_code": "26703466007",
+        "term": "Confusion",
+        "description": "A state of being unclear in one's mind about something."
+    },
+    {
+        "snomed_code": "26703646007",
+        "term": "Memory loss",
+        "description": "The inability to remember information or events."
+    },
+    {
+        "snomed_code": "267034646007",
+        "term": "Depression",
+        "description": "A mood disorder that causes a persistent feeling of sadness and loss of interest."
+    },
+    {
+        "snomed_code": "267034646007",
+        "term": "Anxiety",
+        "description": "A feeling of worry, nervousness, or unease about something with an uncertain outcome."
+    },
+    {
+        "snomed_code": "267036766007",
+        "term": "Insomnia",
+        "description": "Persistent problems falling and staying asleep."
+    },
+    {
+        "snomed_code": "2670356866007",
+        "term": "Weight loss",
+        "description": "A decrease in body weight."
+    },
+    {
+        "snomed_code": "26703243576007",
+        "term": "Weight gain",
+        "description": "An increase in body weight."
+    },
+    {
+        "snomed_code": "267036623007",
+        "term": "Loss of appetite",
+        "description": "A reduced desire to eat."
+    },
+    {
+        "snomed_code": "26703665886007",
+        "term": "Increased appetite",
+        "description": "An increased desire to eat."
+    },
+    {
+        "snomed_code": "267047636007",
+        "term": "Dry mouth",
+        "description": "A condition in which the mouth is unusually dry."
+    },
+    {
+        "snomed_code": "3848007",
+        "term": "Thirst",
+        "description": "A feeling of needing or wanting to drink something."
+    },
+    {
+        "snomed_code": "2673226007",
+        "term": "Frequent urination",
+        "description": "The need to urinate more often than usual."
+    },
+    {
+        "snomed_code": "22385849007",
+        "term": "Painful urination",
+        "description": "Pain or discomfort when urinating."
+    },
+    {
+        "snomed_code": "26737689336007",
+        "term": "Blood in urine",
+        "description": "The presence of blood in the urine."
+    },
+    {
+        "snomed_code": "2670369274007",
+        "term": "Constipation",
+        "description": "A condition in which there is difficulty in emptying the bowels, usually associated with hardened feces."
+    }
+]
